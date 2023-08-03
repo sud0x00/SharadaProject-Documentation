@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T19:00:43.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="M_-SrfZC2kT1m99HN1HT" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T19:19:27.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="FycERVVWpiKI3B2I6WAK" version="21.5.2" type="github">
   <diagram name="Page-1" id="5Xof6ni6gehnlC4QjmLu">
     <mxGraphModel dx="1100" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="9VpbuxgiITu0wtIyjPyE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9VpbuxgiITu0wtIyjPyE-39" target="9VpbuxgiITu0wtIyjPyE-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9VpbuxgiITu0wtIyjPyE-39" value="If&lt;br&gt;&lt;div&gt;Word Prediction&amp;nbsp;&lt;/div&gt;&lt;div&gt;Conf &amp;gt; 80 &lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9VpbuxgiITu0wtIyjPyE-39" value="If&lt;br&gt;&lt;div&gt;Word Prediction&amp;nbsp;&lt;/div&gt;&lt;div&gt;Score &amp;gt; 80 &lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="570" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
